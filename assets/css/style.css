@@ -1,0 +1,32 @@
+/*Estilo da página index.html*/
+.center {
+    text-align: center;
+}
+
+.container {
+display: flex;
+flex-flow: row wrap;
+justify-content: center;
+align-items: center;
+
+}
+
+.imagem {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.video {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.menu li {
+    display: inline;
+}
+
+/*Estilo da página contato.html*/
